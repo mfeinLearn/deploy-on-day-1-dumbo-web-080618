@@ -2894,7 +2894,7 @@ input.hs-button.primary.large{
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   width: 140px;
-  height: 140px;
+  height: 240px;
   top: -212px;
   left: 41.07%;
   border: 2px solid white;
@@ -2920,6 +2920,7 @@ input.hs-button.primary.large{
   background-size: 100% 100%;
   margin-bottom: 100px;
   text-align: center;
+  height: 500px;
 }
 
 .ib-social-icons {
